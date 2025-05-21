@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: модуль",
+            "type": "python",
+            "request": "launch",
+            "module": "bot",
+            "justMyCode": true
+        }
+    ]
+}
